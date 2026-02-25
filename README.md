@@ -25,7 +25,7 @@ To design and implement a **GUI-based calculator** using Flutter widgets that pe
 ---
 
 ## Output
-The application successfully performs arithmetic operations (+, −, ×, ÷) on two numbers entered by the user and displays the result dynamically.
+The application successfully performs arithmetic operations (+, −, ×, ÷, %) on two numbers entered by the user and displays the result dynamically.
 
 <img src="./Output3.png" alt="Calculator Page" width="300"/>
 
